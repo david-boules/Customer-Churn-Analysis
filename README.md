@@ -26,11 +26,11 @@ These are the goals that will help us learn information about the population (al
 
 2. **Gender-Based Churn Rate Differences:**
    *Do male and female customers experience significantly different churn rates?*
-   - Investigate potential gender-based disparities using statistical comparison of proportions.
+   - Compare churn rates of both gender groups using comparison of proportions.
 
 3. **Geographical Churn Behavior:**
    *Are bank churn rates the same across internation branches?*
-   - Analyze both churn rates and selected financial metrics across regions.
+   - Analyze both churn rates and certain financial metrics across regions.
 
 4. **Salary Variability and Churn:**
    *How consistent are the salaries across churners and non-churners?*
@@ -38,7 +38,7 @@ These are the goals that will help us learn information about the population (al
 
 5. **Customer Activity and Retention:**
    *Does being an active member make one more likely to stay with the bank?*
-   - Examine the relationship between a customer's activity and their churn behavior.
+   - Determine the relationship (if any) between a customer's activity and their churn behavior.
 
 ---
 
