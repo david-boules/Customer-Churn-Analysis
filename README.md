@@ -29,7 +29,7 @@ These are the goals that will help us learn information about the population (al
    - Compare churn rates of both gender groups using comparison of proportions.
 
 3. **Geographical Churn Behavior:**
-   *Are bank churn rates the same across internation branches?*
+   *Are bank churn rates the same across international branches?*
    - Analyze both churn rates and certain financial metrics across regions.
 
 4. **Salary Variability and Churn:**
@@ -60,8 +60,6 @@ The dataset includes the following key variables:
 
 ---
 
-<!--
-EDIT ONCE DECIDED
 ## Methodology
 
 - Summary statistics (mean, median, standard deviation)
@@ -71,10 +69,6 @@ EDIT ONCE DECIDED
   - Two-sample t-tests
   - Z-tests for proportions
   - F-tests for variance comparison
-  - Chi-square tests for independence
-
----
--->
 
 ## Team
 
