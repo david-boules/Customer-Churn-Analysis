@@ -65,10 +65,7 @@ The dataset includes the following key variables:
 - Summary statistics (mean, median, standard deviation)
 - Data visualization (histograms, bar plots, box plots)
 - Confidence intervals for means, proportions, and variances
-- Hypothesis testing:
-  - Two-sample t-tests
-  - Z-tests for proportions
-  - F-tests for variance comparison
+- Hypothesis testing using one-tailed & two-tailed tests
 
 ## Team
 
